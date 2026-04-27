@@ -41,8 +41,8 @@
 ## 👨‍💻 &nbsp;About Me
 
 ```yaml
-name:      "Your Name"
-location:  "Your City, Country 🌍"
+name:      "SAURISH"
+location:  "India 🌍"
 role:      "Full Stack & ML/AI Engineer"
 company:   "Open to Opportunities"
 
